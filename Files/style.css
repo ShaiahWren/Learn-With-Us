@@ -94,6 +94,9 @@ input#login:checked ~ .main-wrapper {
     pointer-events: none;
 }
 
+label i.fa-bars {
+    display: none;
+}
 nav {
     width: 80%;
     margin-left: 10%;
@@ -373,6 +376,7 @@ footer p {
     font-size: 130%;
 }
 /* End footer */
+
 
 
 
